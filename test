@@ -1,6 +1,12 @@
      "imports": "always-multiline",
       "exports": "always-multiline",
       "functions": "ignore"
+     "imports": "always-multiline",
+      "exports": "always-multiline",
+      "functions": "ignore"
+     "imports": "always-multiline",
+      "exports": "always-multiline",
+      "functions": "ignore"
 
 
 
