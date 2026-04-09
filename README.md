@@ -25,5 +25,8 @@ GitHub pull requests by-label GitHub Issues
 
 Hardware requirements
 We recommend you have this hardware configuration to run a node:
-
+jdasjkfsdhjdfsdlkajsajk sa
+]sadkljsdjjdfjdfgsdfkl;
+]dfjjkjdkfjfgdkjfgdjfgd
+sdjkjgflfkldfgjkdfggjkdf
 a modern multi-core CPU with good single-core performance
